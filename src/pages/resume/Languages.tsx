@@ -9,7 +9,7 @@ const Languages = () => (
         <span>Italian:</span> advanced
       </li>
       <li>
-        <span>Spanish:</span> intermediate
+        <span>Spanish:</span> upper intermediate
       </li>
       <li>
         <span>Ukrainian:</span> advanced
