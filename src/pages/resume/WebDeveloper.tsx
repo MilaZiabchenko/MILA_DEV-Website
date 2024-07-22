@@ -10,7 +10,7 @@ const WebDeveloper = () => (
   <>
     <section className='presentation'>
       <h2>
-        Hi, I'm <strong>Mila Ziabchenko</strong>🎇
+        Hi, I'm <strong>Mila Ziabchenko</strong> 🎇
       </h2>
       <p>
         I'm a passionate <span>Web Developer</span> with a particular focus on{' '}
