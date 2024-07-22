@@ -8,7 +8,7 @@ const Interpreter = () => (
   <>
     <section className='presentation'>
       <h2>
-        Hi, I'm <strong>Mila Ziabchenko</strong>🎇
+        Hi, I'm <strong>Mila Ziabchenko</strong> 🎇
       </h2>
       <p>
         I'm a professional Interpreter of English, Italian, Spanish, Russian and
