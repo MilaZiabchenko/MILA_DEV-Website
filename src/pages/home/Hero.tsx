@@ -29,7 +29,7 @@ const Hero = () => {
         <a href='https://github.com/MilaZiabchenko' target='_blank'>
           my code
         </a>{' '}
-        examples 🐱‍💻
+        examples 😽
       </p>
     </section>
   );
