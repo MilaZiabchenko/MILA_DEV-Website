@@ -19,7 +19,7 @@ const Interpreter = () => (
         translating, and writing original articles about web development in{' '}
         <Link to='/articles'>my blog →</Link>
       </p>
-      <p>Mastering languages is my lifetime passion 💖</p>
+      <p>Mastering languages is my lifetime passion 😽</p>
     </section>
     <div className='grid'>
       <Contact />
