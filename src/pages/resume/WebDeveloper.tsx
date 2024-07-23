@@ -16,7 +16,7 @@ const WebDeveloper = () => (
         I'm a passionate <span>Web Developer</span> with a particular focus on{' '}
         <span>Front End</span> (HTML, CSS, JavaScript, TypeScript, React, Next)
         and a keen interest in <span>Back End</span> (Node, Express, MongoDB,
-        Rust) 💖
+        Rust) 🤍
       </p>
       <p>
         I value high quality and build{' '}
@@ -24,7 +24,7 @@ const WebDeveloper = () => (
           my projects
         </a>{' '}
         with attention to detail and the big picture in mind, following best
-        practices and finding creative solutions to challenging problems 🐱‍💻
+        practices and finding creative solutions to challenging problems 🤍
       </p>
       <p>
         I also write about web development in{' '}
