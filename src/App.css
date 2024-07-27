@@ -572,11 +572,6 @@ footer img {
     width: 210%;
     margin-left: -55%;
   }
-
-  .contact {
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid var(--dark-blue-35);
-  }
 }
 
 @media (max-width: 600px) {
@@ -636,6 +631,11 @@ footer img {
 
   footer p:first-of-type {
     display: none;
+  }
+
+  .contact {
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--dark-blue-35);
   }
 }
 
