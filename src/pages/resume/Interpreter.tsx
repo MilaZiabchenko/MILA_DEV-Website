@@ -15,7 +15,7 @@ const Interpreter = () => (
         Ukrainian languages 🌍
       </p>
       <p>
-        I also have several years of experience in teaching Italian,
+        I also have several years of experience in teaching languages,
         translating, and writing original articles about web development in{' '}
         <Link to='/articles'>my blog →</Link>
       </p>
