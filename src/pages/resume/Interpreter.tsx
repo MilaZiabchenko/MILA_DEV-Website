@@ -12,14 +12,14 @@ const Interpreter = () => (
       </h2>
       <p>
         I'm a professional Interpreter of English, Italian, Spanish, Russian and
-        Ukrainian languages 🌍
+        Ukrainian languages 🗺
       </p>
       <p>
         I also have several years of experience in teaching languages,
         translating, and writing original articles about web development in{' '}
         <Link to='/articles'>my blog →</Link>
       </p>
-      <p>Mastering languages is my lifetime passion 😽</p>
+      <p>Mastering languages is my lifetime passion 🤍</p>
     </section>
     <div className='grid'>
       <Contact />
