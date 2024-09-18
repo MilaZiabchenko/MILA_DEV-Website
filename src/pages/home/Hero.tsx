@@ -3,9 +3,9 @@ import useText from '../../hooks/useText';
 
 const Hero = () => {
   const roles = useText(
-    'web developer | interpreter | cat person',
+    'web developer | linguist | cat person',
     'web developer & cat person',
-    475
+    468
   );
 
   return (
