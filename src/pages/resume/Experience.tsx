@@ -21,8 +21,8 @@ const Experience = ({
       <h4>🔆 Interpreter (English, Italian, Spanish, Ukrainian, Russian)</h4>
       <h5>2012 - present</h5>
       <p>
-        Work as a Freelance Interpreter and Translator in various domains —
-        technology, business, law, media, tourism, culture, healthcare, and
+        Work as a Freelance Interpreter and sometimes Translator in various domains —
+        technology, business, finance, education, media, tourism, healthcare, law, and
         other spheres.
       </p>
       <p>
