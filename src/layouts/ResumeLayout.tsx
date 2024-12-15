@@ -3,7 +3,7 @@ import useText from '../hooks/useText';
 
 const ResumeLayout = () => {
   const roles = useText(
-    'web developer | interpreter | translator | teacher',
+    'web developer | interpreter | technical writer',
     'web developer & interpreter',
     750
   );
