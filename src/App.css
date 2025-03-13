@@ -99,6 +99,10 @@ button,
   transition: all 200ms ease;
 }
 
+.menu-btn {
+  background-color: transparent;
+}
+
 :is(button:not(.menu-btn), .resume-nav-list a):hover {
   background-color: var(--primary-red);
 }
@@ -468,10 +472,6 @@ footer img {
 @media (max-width: 800px) {
   .main-navigation {
     justify-content: space-between;
-  }
-
-  .menu-btn {
-    background-color: transparent;
   }
 
   .mobile-nav-list {
