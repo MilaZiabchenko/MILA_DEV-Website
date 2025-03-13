@@ -495,6 +495,10 @@ footer img {
     background-color: var(--light-blue-background);
   }
 
+  .mobile-nav-list a {
+    width: 100%;
+  }
+
   .slide-in-with-75-ms-delay {
     animation: slide-in 500ms ease 75ms forwards;
   }
