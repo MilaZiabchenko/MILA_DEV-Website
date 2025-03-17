@@ -41,7 +41,7 @@ const WebDeveloper = () => (
         <h4>🔆 Front-End Developer at Stealth Startup</h4>
         <h5>2024 - 2025</h5>
         <p>
-          Designed and developed the front end of online platform using TypeScript,
+          Designed and developed the front end for online platform using TypeScript,
           React, React Router, Redux Toolkit, CSS/SCSS and Figma.
         </p>
         <p>
@@ -109,7 +109,7 @@ const WebDeveloper = () => (
       <article>
         <h4>👩‍🎓 EPAM University</h4>
         <h5>2021</h5>
-        <p>Successfully completed the Front-End Course</p>
+        <p>Successfully completed the Front-End Development Course</p>
       </article>
     </Education>
   </>
