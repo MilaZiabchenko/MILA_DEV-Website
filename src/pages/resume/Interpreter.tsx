@@ -15,6 +15,10 @@ const Interpreter = () => (
         Ukrainian languages 🤍
       </p>
       <p>
+        I've been helping people from various countries and different walks of life
+        to communicate for many years.
+      </p>
+      <p>
         I also have several years of experience in teaching languages,
         translating, and writing original articles about web development in{' '}
         <Link to='/articles'>my blog →</Link>
@@ -26,6 +30,18 @@ const Interpreter = () => (
       <Languages />
     </div>
     <Experience>
+      <article>
+        <h4>🔆 Interpreter at KLS Translation Agency</h4>
+        <h5>2024 - present</h5>
+        <p>
+          Interprete at various events held by international organizations,
+          such as IOM, EUAM Ukraine, and IREX.
+        </p>
+        <p>
+          Provide interpreting services during meetings with representatives of
+          Europol, U.S. Department of State, and UN agencies.
+        </p>
+      </article>
       <article>
         <h4>🔆 Interpreter (English, Italian, Spanish, Ukrainian, Russian)</h4>
         <h5>2012 - present</h5>
