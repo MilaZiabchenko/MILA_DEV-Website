@@ -28,7 +28,6 @@ const ResumeLayout = () => {
           </li>
         </ul>
       </nav>
-
       <Outlet />
     </div>
   );
