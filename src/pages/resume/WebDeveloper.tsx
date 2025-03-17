@@ -36,31 +36,50 @@ const WebDeveloper = () => (
       <Languages />
     </div>
     <Skills />
-    <Projects />
     <Experience>
       <article>
-        <h4>🔆 Web Developer (Front End, Full Stack)</h4>
-        <h5>2022 - present</h5>
+        <h4>🔆 Front-End Developer at Stealth Startup</h4>
+        <h5>2024 - 2025</h5>
         <p>
-          Design & build high-quality front-end and full-stack web sites and
+          Designed and developed the front end of online platform using TypeScript,
+          React, React Router, Redux Toolkit, CSS/SCSS and Figma.
+        </p>
+        <p>
+          Worked closely with the team coming up with creative solutions to problems
+          and ideas of enhancing user experience.
+        </p>
+      </article>
+      <article>
+        <h4>🔆 Technical Writer</h4>
+        <h5>2023 - 2024</h5>
+        <p>
+          Wrote original in-depth articles about web development in{' '}
+          <Link to='/articles'>my blog →</Link>
+        </p>
+      </article>
+      <article>
+        <h4>🔆 Web Developer (Front End, Full Stack)</h4>
+        <h5>2022 - 2024</h5>
+        <p>
+          Designed & built high-quality front-end and full-stack web sites and
           applications from scratch, using modern technologies — TypeScript,
           React and its ecosystem, Axios, Vite, Node, Express, MongoDB,
           Firebase, and other cool tools.
         </p>
         <p>
-          In the client-side development, implement latest HTML, CSS, JavaScript
+          In the client-side development, implemented latest HTML5, CSS5, JavaScript
           and TypeScript features, composition and reusability with functional
           programming, modern React patterns, like Hooks and Render Props,
           various performance optimization techniques (memoization, code
           splitting), routing with React Router v6 latest features, and also
-          practice different approaches for adding animations and styles:
+          practiced different approaches for adding animations and styles:
           CSS-in-CSS, CSS-in-JS, and Utility-First-CSS.
         </p>
         <p>
-          In the server-side development, apply modular approach in the code
+          In the server-side development, applied modular approach in the code
           structure, clean code principles, RESTful and GraphQL API integration
           with Express and Apollo, error handling, authentication and
-          authorization middleware, database connection, implement schema, env
+          authorization middleware, database connection, implemented schema, env
           variables and user input validations, various configurations, and
           more... 😅
         </p>
@@ -85,6 +104,7 @@ const WebDeveloper = () => (
         </p>
       </article>
     </Experience>
+    <Projects />
     <Education>
       <article>
         <h4>👩‍🎓 EPAM University</h4>
