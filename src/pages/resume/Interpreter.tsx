@@ -16,7 +16,7 @@ const Interpreter = () => (
       </p>
       <p>
         I've been helping people from various countries and different walks of life
-        to communicate for many years.
+        to communicate for many years now.
       </p>
       <p>
         I also have several years of experience in teaching languages,
@@ -39,7 +39,7 @@ const Interpreter = () => (
         </p>
         <p>
           Provide interpreting services during meetings with representatives of
-          Europol, U.S. Department of State, and UN agencies.
+          the U.S. Department of State, EU and UN agencies.
         </p>
       </article>
       <article>
