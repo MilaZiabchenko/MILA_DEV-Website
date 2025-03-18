@@ -34,7 +34,7 @@ const Interpreter = () => (
         <h4>🔆 Interpreter at KLS Translation Agency</h4>
         <h5>2024 - present</h5>
         <p>
-          Interprete at various events held by international organizations,
+          Interpret at various events held by international organizations,
           such as IOM, EUAM Ukraine, and IREX.
         </p>
         <p>
