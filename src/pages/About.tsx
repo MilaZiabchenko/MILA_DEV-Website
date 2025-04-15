@@ -11,7 +11,7 @@ const About = () => (
     </p>
     <p>
       I'm constantly improving my programming and problem-solving skills,
-      expanding my knowledge and learning new things...
+      expanding my knowledge, and learning new things...
     </p>
     <p>
       In the summer of 2023, I started exploring the world of Rust and fell in
@@ -19,7 +19,7 @@ const About = () => (
     </p>
     <p>
       I love to design and build amazing apps with great functionality and
-      beautiful interfaces for everyone, taking advantage of the cutting-edge
+      beautiful interfaces for everyone, taking advantage of cutting-edge
       technologies and best practices. I am a constant learner who creates apps
       with attention to every detail without losing sight of the big picture. 
       Moreover, I always try to deliver the best user experience possible.
@@ -32,7 +32,7 @@ const About = () => (
     <p>
       I'm also an{' '}
       <Link to='/resume/interpreter'>
-        interpreter of Italian, Spanish and English languages
+        interpreter of Italian, Spanish and English
       </Link>{' '}
       who facilitates communication between people that speak different languages.
     </p>
@@ -48,7 +48,7 @@ const About = () => (
       My other interests include (but are not limited to) spending time with my
       loved ones; communicating with kind and interesting people; walking,
       hiking, biking, swimming, and traveling; and learning new things, especially
-      related to cognitive and social sciences, international relations and 
+      related to cognitive and social sciences, international relations, and 
       geopolitics.
     </p>
     <p>
