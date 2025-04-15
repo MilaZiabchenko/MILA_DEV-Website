@@ -26,16 +26,15 @@ const About = () => (
     </p>
     <p>
       In <Link to='/articles'>my articles</Link> written for this blog dedicated
-      to web development, I'd like to share a little bit of my knowledge with 
-      fellow dev nerds and would be glad to receive their constructive and
-      friendly feedback 😉
+      to web development, I'd like to share my knowledge with fellow dev nerds 
+      and would be glad to receive their constructive and friendly feedback 😉
     </p>
     <p>
       I'm also an{' '}
       <Link to='/resume/interpreter'>
         interpreter of Italian, Spanish and English languages
-      </Link>
-       who facilitates communication between people that speak different languages.
+      </Link>{' '}
+      who facilitates communication between people that speak different languages.
     </p>
     <p>
       In the past, I worked in the realm of international adoptions, helping
@@ -54,7 +53,7 @@ const About = () => (
     </p>
     <p>
       I adore drinking latte ☕ and eating delicious food, especially fruit
-      🍒🍏🍑 and (a little bit of) pastries 😋
+      🍒🍏🍑 and (a tiny bit of) pastries 😋
     </p>
     <p>
       I love animals 🐢🐈🦔, forests 🌲🌳🍁🍂, mountains 🌄 and the sea 🌊🐬
