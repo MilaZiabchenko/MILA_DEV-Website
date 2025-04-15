@@ -11,7 +11,7 @@ const About = () => (
     </p>
     <p>
       I'm constantly improving my programming and problem-solving skills,
-      expanding my knowledge, and learning new things...
+      expanding my knowledge, and learning new things.
     </p>
     <p>
       In the summer of 2023, I started exploring the world of Rust and fell in
@@ -32,7 +32,7 @@ const About = () => (
     <p>
       I'm also an{' '}
       <Link to='/resume/interpreter'>
-        interpreter of Italian, Spanish and English
+        interpreter of Italian, Spanish, and English
       </Link>{' '}
       who facilitates communication between people that speak different languages.
     </p>
