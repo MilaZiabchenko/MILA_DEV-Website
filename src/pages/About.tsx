@@ -10,7 +10,7 @@ const About = () => (
       GraphQL, MongoDB, Firebase, and other modern technologies and tools.
     </p>
     <p>
-      I'm constantly improving my programming and problem solving skills,
+      I'm constantly improving my programming and problem-solving skills,
       expanding my knowledge and learning new things...
     </p>
     <p>
@@ -21,13 +21,13 @@ const About = () => (
       I love to design and build amazing apps with great functionality and
       beautiful interfaces for everyone, taking advantage of the cutting-edge
       technologies and best practices. I am a constant learner who creates apps
-      with attention to every detail without losing sight of the big picture. I
-      always try to deliver the best user experience possible.
+      with attention to every detail without losing sight of the big picture. 
+      Moreover, I always try to deliver the best user experience possible.
     </p>
     <p>
       In <Link to='/articles'>my articles</Link> written for this blog dedicated
-      to the web development, I'd like to share a little bit of my knowledge
-      with fellow dev nerds and would be glad to receive their constructive and
+      to web development, I'd like to share a little bit of my knowledge with 
+      fellow dev nerds and would be glad to receive their constructive and
       friendly feedback 😉
     </p>
     <p>
@@ -35,7 +35,7 @@ const About = () => (
       <Link to='/resume/interpreter'>
         interpreter of Italian, Spanish and English languages
       </Link>
-      , who ficilitates communication between people that speak different languages.
+       who facilitates communication between people that speak different languages.
     </p>
     <p>
       In the past, I worked in the realm of international adoptions, helping
@@ -48,7 +48,7 @@ const About = () => (
     <p>
       My other interests include (but are not limited to) spending time with my
       loved ones; communicating with kind and interesting people; walking,
-      hiking, biking, swimming, traveling; learning new things, especially
+      hiking, biking, swimming, and traveling; and learning new things, especially
       related to cognitive and social sciences, international relations and 
       geopolitics.
     </p>
