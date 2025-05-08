@@ -6,7 +6,7 @@ const Skills = () => (
         <span>Programming Languages:</span> JavaScript (ES6+), TypeScript, Rust
       </li>
       <li>
-        <span>Front End:</span> HTML, CSS/SCSS, React/Next, Redux Toolkit, Tailwind, Chakra UI
+        <span>Front End:</span> HTML, CSS/SCSS, React/Next, Redux Toolkit, Tailwind, Chakra UI, Styled Components
       </li>
       <li>
         <span>Back End:</span> Node, Express, MongoDB, Firebase
