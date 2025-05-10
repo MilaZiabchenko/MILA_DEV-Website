@@ -39,13 +39,13 @@ const WebDeveloper = () => (
     <Experience>
       <article>
         <h4>🔆 Front-End Developer at Stealth Startup</h4>
-        <h5>2024 - 2025</h5>
+        <h5>2024 - present</h5>
         <p>
-          Designed and developed the front end for online platform using TypeScript,
+          Design and develop the front end for online platform using TypeScript,
           React, React Router, Redux Toolkit, CSS/SCSS and Figma.
         </p>
         <p>
-          Worked closely with the team coming up with creative solutions to problems
+          Work closely with the team coming up with creative solutions to problems
           and ideas of enhancing user experience.
         </p>
       </article>
