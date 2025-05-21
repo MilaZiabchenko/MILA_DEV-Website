@@ -60,7 +60,7 @@ const Interpreter = () => (
         </p>
         <p>Mediate discussions between the speaker and the audience.</p>
         <p>
-          Accompany international visitors to various meetings and events across
+          Accompany foreign visitors to various meetings and events across
           Ukraine.
         </p>
       </article>
