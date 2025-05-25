@@ -61,19 +61,18 @@ const WebDeveloper = () => (
         <h4>🔆 Web Developer (Front End, Full Stack)</h4>
         <h5>2022 - 2024</h5>
         <p>
-          Designed & built high-quality front-end and full-stack web sites and
-          applications from scratch, using modern technologies — TypeScript,
-          React and its ecosystem, Axios, Vite, Node, Express, MongoDB,
-          Firebase, and other cool tools.
+          Designed, developed and deployed high-quality front-end and full-stack web
+          sites and applications from scratch, using modern technologies — TypeScript,
+          React and its ecosystem, Axios, Vite, Node, Express, MongoDB, Firebase,
+          and other cool tools.
         </p>
         <p>
-          In the client-side development, implemented latest HTML5, CSS5, JavaScript
-          and TypeScript features, composition and reusability with functional
-          programming, modern React patterns, like Hooks and Render Props,
-          various performance optimization techniques (memoization, code
+          In the client-side development, implemented composition and reusability
+          with functional programming, modern React patterns, like Hooks and Render
+          Props, various performance optimization techniques (memoization, code
           splitting), routing with React Router v6 latest features, and also
-          practiced different approaches for adding animations and styles:
-          CSS-in-CSS, CSS-in-JS, and Utility-First-CSS.
+          made use of different approaches for adding animations and styles
+          (CSS-in-CSS, CSS-in-JS, and Utility-First-CSS).
         </p>
         <p>
           In the server-side development, applied modular approach in the code
